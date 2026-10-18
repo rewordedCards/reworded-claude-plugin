@@ -14,10 +14,9 @@ practice. Changes reach your devices through iCloud sync.
 
 Install the plugin, open its **Connectors** tab and connect Reworded
 (`https://mcp.reworded.cards/mcp`). On the Reworded page, sign in with Apple,
-check which account is shown and choose which permissions to allow. Claude
-first asks for read access. It asks again before it can create cards or save
-practice results. Never paste Apple credentials, access tokens or API keys
-into the conversation.
+check which account is shown and allow access. One approval covers reading
+your cards, creating decks and cards, and saving practice results. Never paste
+Apple credentials, access tokens or API keys into the conversation.
 
 ## Try it
 
