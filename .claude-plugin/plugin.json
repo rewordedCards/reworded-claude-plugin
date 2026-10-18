@@ -1,0 +1,24 @@
+{
+  "name": "reworded",
+  "displayName": "Reworded",
+  "version": "1.0.0",
+  "description": "Practice vocabulary from Reworded, create flashcards, and save individual review results to your connected library.",
+  "author": {
+    "name": "ALEKSANDR ILICHEV",
+    "email": "hey@reworded.cards",
+    "url": "https://mcp.reworded.cards"
+  },
+  "homepage": "https://mcp.reworded.cards",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://mcp.reworded.cards/support",
+  "supportUrl": "https://mcp.reworded.cards/support",
+  "privacyPolicyUrl": "https://mcp.reworded.cards/privacy",
+  "termsOfServiceUrl": "https://mcp.reworded.cards/terms",
+  "keywords": [
+    "vocabulary",
+    "flashcards",
+    "language-learning",
+    "reworded"
+  ]
+}
