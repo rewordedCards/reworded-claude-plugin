@@ -53,5 +53,5 @@ conversation. Details are in the [privacy policy](https://mcp.reworded.cards/pri
 [Terms](https://mcp.reworded.cards/terms) · hey@reworded.cards
 
 The plugin files (manifest, connector configuration, skill and this README) are
-available under the [MIT License](LICENSE). The Reworded name and icon
-(`assets/icon.png`) are not covered by that license; all rights reserved.
+available under the [MIT License](LICENSE). The Reworded name and app
+icon are not covered by that license; all rights reserved.
