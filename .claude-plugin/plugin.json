@@ -9,6 +9,7 @@
     "url": "https://mcp.reworded.cards"
   },
   "homepage": "https://mcp.reworded.cards",
+  "repository": "https://github.com/rewordedCards/reworded-claude-plugin",
   "license": "MIT",
   "icon": "./assets/icon.png",
   "documentationUrl": "https://mcp.reworded.cards/support",
